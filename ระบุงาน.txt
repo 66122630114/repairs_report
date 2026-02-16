@@ -1,0 +1,5 @@
+ไฟล์งานจริงคือ 
+index.php หน้าแรก แสดงค่าแดชบอร์ดต่างๆ 
+Full_repair.php หน้ารวมประวัติการซ่อมทั้งหมด
+
+http://localhost/Sheet_Json/index.php
